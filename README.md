@@ -6,7 +6,7 @@ Express.js é um framework para Node.js que fornece recursos mínimos para const
 <h3>Para Rodar</h3>
 
 ```bash
-nodemon app.js
+node app.js
 ```
 O código está em execução
 
